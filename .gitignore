@@ -1,3 +1,7 @@
 *.old
 *.old.sig
 .vscode
+custom.db
+custom.db.sig
+custom.files
+custom.files.sig

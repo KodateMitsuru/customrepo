@@ -28,6 +28,7 @@ Server = https://raw.githubusercontent.com/KodateMitsuru/customrepo/
 
 ```
 custom ddnet-maps-git r1959.g5a83015e-1
+custom fcitx5-pinyin-custom-pinyin-dictionary 20250101-1
 custom hikvision-mvs 3.0.1-2
 custom ideapad-laptop-tb-dkms 2-2
 custom kwalletcli 3.03-4
@@ -51,4 +52,3 @@ custom ros2-humble-geographic-msgs-debug 1.0.6-1
 custom ros2-humble-smclib 4.1.0-4
 custom tensorrt8 8.6.1.6-1
 ```
-
