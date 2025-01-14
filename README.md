@@ -19,7 +19,7 @@
 /etc/pacman.conf
 
 [custom]
-Server = https://raw.githubusercontent.com/KodateMitsuru/customrepo/
+Server = https://repo.kodatemitsuru.com
 ```
 
 ## 软件包
