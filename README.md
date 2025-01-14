@@ -10,16 +10,16 @@
 
 ### 首先导入我的公钥
 
-```
-sudo pacman-key --recv-key E151220F46DB0A0C7B00D6763116E5A7034F3373 --keyserver keyserver.ubuntu.com
-sudo pacman-key --lsign-key E151220F46DB0A0C7B00D6763116E5A7034F3373
+```shell
+# pacman-key --recv-key E151220F46DB0A0C7B00D6763116E5A7034F3373 --keyserver keyserver.ubuntu.com
+# pacman-key --lsign-key E151220F46DB0A0C7B00D6763116E5A7034F3373
 ```
 
 ### 然后添加repo
 
 在 `/etc/pacman.conf` 中添加
 
-```
+```conf
 [custom]
 Server = https://repo.kodatemitsuru.com
 ```
